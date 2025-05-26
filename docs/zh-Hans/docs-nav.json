@@ -1,137 +1,71 @@
 {
   "items": [
-     {
+    {
       "text": "开通旅游网站",
       "path": "Create-Travely-Website.md"
+    },
+    {
+      "text": "支付账户",
+      "path": "Online-Payment.md"
+    },
+    {
+      "text": "游览管理",
+      "items": [
+        {
+          "text": "类型和地区",
+          "path": "Area-Category.md"
+        },
+        {
+          "text": "游览",
+          "path": "Tour.md"
+        }
+      ]
+    },
+    {
+      "text": "导游管理",
+      "path": "Tour-Guide.md"
+    },
+    {
+      "text": "订单管理",
+      "items":[
+        {
+          "text": "客户退款",
+          "path": "Customer-Refund.md"
+        },
+        { 
+          "text": "安排导游",
+          "path": "Arrange-Tour-Guide.md"
+        }
+      ]
+    },
+    {
+      "text": "网站管理",
+      "items": [
+        {
+          "text": "网站页面",
+          "path": "Website-Page.md"
+        },{
+          "text": "用户评价",
+          "path": "User-Review.md"
+        }
+      ]
+    },
+    {
+      "text": "设置",
+      "items": [
+        {
+          "text": "邮件设置",
+          "path": "Email-Settings.md"
+        },
+        {
+          "text": "域名设置",
+          "path": "Domain-Settings.md"
+        },
+        {
+          "text": "品牌设置",
+          "path": "Brand-Settings.md"
+        }
+      ]
     }
-    // ,
-    // {
-    //   "text": "通知",
-    //   "items": [
-    //     {
-    //       "text": "通知系统核心",
-    //       "path": "Notifications.md"
-    //     },
-    //     {
-    //       "text": "通知中心模块",
-    //       "path": "Notification-Center.md"
-    //     },
-    //     {
-    //       "text": "Blazor 版",
-    //       "path": "Blazor-Notification-Center.md"
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "积分",
-    //   "items":[
-    //     {
-    //       "text": "积分核心",
-    //       "path": "Points.md"
-    //     },
-    //     {
-    //       "text": "用户积分模块",
-    //       "path": "User-Points.md"
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "动态表单",
-    //   "items": [
-    //     {
-    //       "text": "动态表单核心",
-    //       "path": "Dynamic-Forms.md"
-    //     },
-    //     {
-    //       "text": "Blazor 动态表单组件",
-    //       "items": [
-    //         {
-    //           "text": "开发 Blazor 动态表单组件",
-    //           "path": "Blazor-Dynamic-Form-Components.md"
-    //         },
-    //         {
-    //           "text": "Blazorise 版",
-    //           "path": "Blazorise-Dynamic-Form-Components.md"
-    //         }
-    //       ]
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "文件管理",
-    //   "items": [
-    //     {
-    //       "text": "文件存储管理",
-    //       "path": "Files.md"
-    //     },
-    //     {
-    //       "text": "文件管理器",
-    //       "path": "File-Explorer.md"
-    //     },
-    //     {
-    //       "text": "Blazor 版",
-    //       "path": "Blazor-File-Explorer.md"
-    //     },
-    //     {
-    //       "text": "Blazor 版文件动态表单组件",
-    //       "path": "Dynamic-Forms-Files.md"
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "CMS Kit",
-    //   "items": [
-    //     {
-    //       "text": "CMS Kit 模块",
-    //       "path": "Cms-Kit/Index.md"
-    //     },
-    //     {
-    //       "text": "访问",
-    //       "path": "Cms-Kit/Visit.md"
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "Pure Theme",
-    //   "items": [
-    //     {
-    //       "text": "Blazor UI",
-    //       "path": "Blazor-Pure-Theme.md"
-    //     },
-    //     {
-    //       "text": "MVC/Razor Pages",
-    //       "path": "AspNetCore-Pure-Theme.md"
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "多租户视图",
-    //   "path": "Views-MultiTenancy.md"
-    // },
-    // {
-    //   "text": "多租户本地化",
-    //   "path": "Localization-MultiTenancy.md"
-    // },
-    // {
-    //   "text": "BlazoriseUI 组件",
-    //   "path": "BlazoriseUI-Component.md"
-    // },
-    // {
-    //   "text": "Ckeditor",
-    //   "items": [
-    //     {
-    //       "text": "Blazor Ckeditor 组件",
-    //       "path": "Blazor-Ckeditor-Component.md"
-    //     },
-    //     {
-    //       "text": "CkEditor 动态表单",
-    //       "path": "Dynamic-Forms-CkEditor.md"
-    //     }
-    //   ]
-    // },
-    // {
-    //   "text": "贡献指南",
-    //   "path": "Contribution/Index.md"
-    // }
   ]
 }

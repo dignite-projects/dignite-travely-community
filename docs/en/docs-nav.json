@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "text": "Launch Travel Website",
+      "path": "Create-Travely-Website.md"
+    },
+    {
+      "text": "Payment Account",
+      "path": "Online-Payment.md"
+    },
+    {
+      "text": "Tour Management",
+      "items": [
+        {
+          "text": "Types and Areas",
+          "path": "Area-Category.md"
+        },
+        {
+          "text": "Tours",
+          "path": "Tour.md"
+        }
+      ]
+    },
+    {
+      "text": "Guide Management",
+      "path": "Tour-Guide.md"
+    },
+    {
+      "text": "Order Management",
+      "items": [
+        {
+          "text": "Customer Refund",
+          "path": "Customer-Refund.md"
+        },
+        {
+          "text": "Assign Guide",
+          "path": "Arrange-Tour-Guide.md"
+        }
+      ]
+    },
+    {
+      "text": "Website Management",
+      "items": [
+        {
+          "text": "Website Pages",
+          "path": "Website-Page.md"
+        },
+        {
+          "text": "User Reviews",
+          "path": "User-Review.md"
+        }
+      ]
+    },
+    {
+      "text": "Settings",
+      "items": [
+        {
+          "text": "Email Settings",
+          "path": "Email-Settings.md"
+        },
+        {
+          "text": "Domain Settings",
+          "path": "Domain-Settings.md"
+        },
+        {
+          "text": "Brand Settings",
+          "path": "Brand-Settings.md"
+        }
+      ]
+    }
+  ]
+}

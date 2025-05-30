@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "text": "旅行サイトを開設する",
+      "path": "Create-Travely-Website.md"
+    },
+    {
+      "text": "支払いアカウント",
+      "path": "Online-Payment.md"
+    },
+    {
+      "text": "ツアー管理",
+      "items": [
+        {
+          "text": "種類と地域",
+          "path": "Area-Category.md"
+        },
+        {
+          "text": "ツアー",
+          "path": "Tour.md"
+        }
+      ]
+    },
+    {
+      "text": "ガイド管理",
+      "path": "Tour-Guide.md"
+    },
+    {
+      "text": "注文管理",
+      "items": [
+        {
+          "text": "顧客返金",
+          "path": "Customer-Refund.md"
+        },
+        {
+          "text": "ガイドを手配",
+          "path": "Arrange-Tour-Guide.md"
+        }
+      ]
+    },
+    {
+      "text": "ウェブサイト管理",
+      "items": [
+        {
+          "text": "ウェブページ",
+          "path": "Website-Page.md"
+        },
+        {
+          "text": "ユーザーレビュー",
+          "path": "User-Review.md"
+        }
+      ]
+    },
+    {
+      "text": "設定",
+      "items": [
+        {
+          "text": "メール設定",
+          "path": "Email-Settings.md"
+        },
+        {
+          "text": "ドメイン設定",
+          "path": "Domain-Settings.md"
+        },
+        {
+          "text": "ブランド設定",
+          "path": "Brand-Settings.md"
+        }
+      ]
+    }
+  ]
+}
